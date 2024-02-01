@@ -1,3 +1,1 @@
-forntend : vue
-backend : spring boot
-db : mysql
+forntend : vue / backend : spring boot / db : mysql
